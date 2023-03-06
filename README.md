@@ -144,6 +144,7 @@
 
 ## Event Storming 결과
 * MSAEz 로 모델링한 이벤트스토밍 결과: https://labs.msaez.io/#/storming/817c67ddd2ff51c4dabdbdad0ec7c12e/
+![image](https://user-images.githubusercontent.com/50093657/223059231-33a47b98-1e0b-4e00-b124-6310f91fab44.png)
 
 
 ### 이벤트 도출
