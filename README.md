@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![image](https://user-images.githubusercontent.com/50093657/223022888-05a4b2cc-c509-4b61-b029-b52c1acde6fe.png)
 
 # 예제 - 캠핑장 예약시스템
 
